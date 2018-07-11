@@ -1,0 +1,3 @@
+interface Persons {
+    name:string;
+}
